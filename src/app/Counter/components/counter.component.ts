@@ -21,6 +21,7 @@ export class CounterComponent  {
   public counter: number = 100;
 
 
+
  public increaseBy(value: number): void{
 
     this.counter += value;
